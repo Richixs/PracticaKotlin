@@ -1,0 +1,12 @@
+ "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82967/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10021",
+              "name": "Jim Nausedas",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },

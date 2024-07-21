@@ -1,4 +1,5 @@
 package com.scesi.marvelapp.controller
+
 import java.security.MessageDigest
 
 fun main() {

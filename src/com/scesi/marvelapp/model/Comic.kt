@@ -18,16 +18,18 @@ class Comic {
     var textObjects: ArrayList<Object>
     var resourceURI: String
     var urls: ArrayList<Url>
-
+    var series: Serie
     var variants: ArrayList<Variant>
-
+    var collections: ArrayList<Object>
     var collectedIssues: ArrayList<Object>
-
+    var dates: ArrayList<DateDetail>
     var prices: ArrayList<Price>
-
+    var thumbnail: Thumbnail
     var images: ArrayList<Object>
-
+    var creators: Creator
     var characters: Characters
-
+    var variants:String
+    var stories: Story
     var events: Events
+
 }
